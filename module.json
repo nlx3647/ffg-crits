@@ -1,0 +1,32 @@
+{
+  "name": "ffg-crits",
+  "title": "FFG Star Wars RPG Crits for Foundry VTT",
+  "description": "<p>FFG Star Wars RPG crits for Foundry VTT</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "9.269",
+  "compatibleCoreVersion": "9.269",
+  "author": "nlx3647",
+  "packs": [
+    {
+      "name": "crits",
+      "label": "Crit Table",
+      "path": "/packs/crits.db",
+      "entity": "Item"
+    },
+    {
+      "name": "macros",
+      "label": "Crit Table",
+      "path": "/packs/macros.db",
+      "entity": "Macro"
+    },
+    {
+      "name": "table	",
+      "label": "Crit Table",
+      "path": "/packs/table.db",
+      "entity": "RollTable"
+    }
+  ],
+  "url": "https://www.github.com/nlx3647",
+  "manifest": "https://github.com/nlx3647/swa-foundry/module.json",
+  "download": "https://github.com/nlx3647/swa-foundry/swa-1.0.0.zip"
+}
