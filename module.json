@@ -20,7 +20,7 @@
       "entity": "Macro"
     },
     {
-      "name": "table	",
+      "name": "table",
       "label": "Crit Table",
       "path": "/packs/table.db",
       "entity": "RollTable"
