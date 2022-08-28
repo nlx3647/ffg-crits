@@ -4,24 +4,30 @@
   "description": "<p>FFG Star Wars RPG crits for Foundry VTT</p>",
   "version": "1.0.0",
   "minimumCoreVersion": "9.269",
-  "compatibleCoreVersion": "9.280",
+  "compatibleCoreVersion": "9.269",
   "author": "nlx3647",
   "packs": [
     {
-      "name": "crits",
-      "label": "Crit Table",
-      "path": "/packs/crits.db",
+      "name": "critinjury",
+      "label": "Critical Injury List",
+      "path": "/packs/critical-injuries.db",
+      "type": "Item"
+    },
+    {
+      "name": "crithit",
+      "label": "Critical Hit List",
+      "path": "/packs/critical-hits.db",
       "type": "Item"
     },
     {
       "name": "macros",
-      "label": "Crit Table",
+      "label": "Critical Injury Roll Macro",
       "path": "/packs/macros.db",
       "type": "Macro"
     },
     {
       "name": "table",
-      "label": "Crit Table",
+      "label": "Critical Injury Table",
       "path": "/packs/table.db",
       "type": "RollTable"
     }
