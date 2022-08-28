@@ -4,7 +4,7 @@
   "description": "<p>FFG Star Wars RPG crits for Foundry VTT</p>",
   "version": "1.0.0",
   "minimumCoreVersion": "9.269",
-  "compatibleCoreVersion": "9.269",
+  "compatibleCoreVersion": "9.280",
   "author": "nlx3647",
   "packs": [
     {
