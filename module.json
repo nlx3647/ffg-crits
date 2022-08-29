@@ -4,7 +4,7 @@
   "description": "<p>FFG Star Wars RPG crits for Foundry VTT</p>",
   "version": "1.0.0",
   "minimumCoreVersion": "9.269",
-  "compatibleCoreVersion": "9.269",
+  "compatibleCoreVersion": "9.280",
   "author": "nlx3647",
   "packs": [
     {
@@ -34,5 +34,5 @@
   ],
   "url": "https://www.github.com/nlx3647/ffg-crits",
   "manifest": "https://github.com/nlx3647/ffg-crits/module.json",
-  "download": "https://github.com/nlx3647/ffg-crits/releases/download/release/ffg-crits-1.0.zip"
+  "download": "https://github.com/nlx3647/ffg-crits/releases/download/release/ffg-crits-1.0.0.zip"
 }
