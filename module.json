@@ -20,13 +20,15 @@
       "name": "critinjury",
       "label": "Critical Injury List",
       "path": "/packs/critical-injuries.db",
-      "type": "Item"
+      "type": "Item",
+      "system": "starwarsffg"
     },
     {
       "name": "crithit",
       "label": "Critical Hit List",
       "path": "/packs/critical-hits.db",
-      "type": "Item"
+      "type": "Item",
+      "system": "starwarsffg"
     },
     {
       "name": "macros",
