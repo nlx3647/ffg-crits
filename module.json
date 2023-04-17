@@ -3,7 +3,7 @@
   "title": "FFG Star Wars RPG Crits for Foundry VTT",
   "description": "<p>FFG Star Wars RPG crits for Foundry VTT</p>",
   "version": "1.0.0",
-  "minimumCoreVersion": "9.269",
+  "minimumCoreVersion": "9.280",
   "compatibleCoreVersion": "9.280",
   "compatibility": {
     "minimum": "9.280",
@@ -13,6 +13,13 @@
     {
       "name": "nlx3647",
       "github": "nlx3647"
+    }
+  ],
+  "dependencies": [
+    {
+        "name": "starwarsffg",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/StarWarsFoundryVTT/StarWarsFFG/master/system.json"
     }
   ],
   "packs": [
